@@ -1,0 +1,9 @@
+C:\Users\ruplo\source\repos\EmployeeAPI\EmployeeApi.BusinessService\bin\Debug\EmployeeApi.BusinessServices.dll
+C:\Users\ruplo\source\repos\EmployeeAPI\EmployeeApi.BusinessService\bin\Debug\EmployeeApi.BusinessServices.pdb
+C:\Users\ruplo\source\repos\EmployeeAPI\EmployeeApi.BusinessService\bin\Debug\EmployeeApi.DataServices.dll
+C:\Users\ruplo\source\repos\EmployeeAPI\EmployeeApi.BusinessService\bin\Debug\EmployeeApi.DataServices.pdb
+C:\Users\ruplo\source\repos\EmployeeAPI\EmployeeApi.BusinessService\obj\Debug\EmployeeApi.BusinessServices.csprojAssemblyReference.cache
+C:\Users\ruplo\source\repos\EmployeeAPI\EmployeeApi.BusinessService\obj\Debug\EmployeeApi.BusinessServices.csproj.CoreCompileInputs.cache
+C:\Users\ruplo\source\repos\EmployeeAPI\EmployeeApi.BusinessService\obj\Debug\EmployeeApi.BusinessServices.csproj.CopyComplete
+C:\Users\ruplo\source\repos\EmployeeAPI\EmployeeApi.BusinessService\obj\Debug\EmployeeApi.BusinessServices.dll
+C:\Users\ruplo\source\repos\EmployeeAPI\EmployeeApi.BusinessService\obj\Debug\EmployeeApi.BusinessServices.pdb

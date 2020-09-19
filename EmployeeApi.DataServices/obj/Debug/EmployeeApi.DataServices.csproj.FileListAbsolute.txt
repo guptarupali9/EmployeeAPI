@@ -1,0 +1,6 @@
+C:\Users\ruplo\source\repos\EmployeeAPI\EmployeeApi.DataServices\bin\Debug\EmployeeApi.DataServices.dll
+C:\Users\ruplo\source\repos\EmployeeAPI\EmployeeApi.DataServices\bin\Debug\EmployeeApi.DataServices.pdb
+C:\Users\ruplo\source\repos\EmployeeAPI\EmployeeApi.DataServices\obj\Debug\EmployeeApi.DataServices.csprojAssemblyReference.cache
+C:\Users\ruplo\source\repos\EmployeeAPI\EmployeeApi.DataServices\obj\Debug\EmployeeApi.DataServices.csproj.CoreCompileInputs.cache
+C:\Users\ruplo\source\repos\EmployeeAPI\EmployeeApi.DataServices\obj\Debug\EmployeeApi.DataServices.dll
+C:\Users\ruplo\source\repos\EmployeeAPI\EmployeeApi.DataServices\obj\Debug\EmployeeApi.DataServices.pdb
